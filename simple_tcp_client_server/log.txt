@@ -1,0 +1,55 @@
+
+2023-06-24 14:26:53.782384 Server started
+2023-06-24 14:27:10.457316 Connection attempt from IP 127.0.0.1
+2023-06-24 14:27:10.457316 User "laptop" authentication attempt
+2023-06-24 14:27:10.457316 User "laptop" successfully logged in
+2023-06-24 14:27:10.457316 Server message:
+Hello, laptop!
+2023-06-24 14:27:14.100453 User "laptop" message:
+whoami
+2023-06-24 14:27:14.100453 Server message:
+laptop
+2023-06-24 14:27:25.701345 User "laptop" message:
+whoami
+2023-06-24 14:27:25.701345 Server message:
+laptop
+2023-06-24 14:28:08.144636 User "laptop" message:
+exit
+2023-06-24 14:28:15.156845 User "laptop" message:
+quit
+2023-06-24 14:28:15.156845 User "laptop" closed connection
+2023-06-24 14:28:15.156845 Server closed
+2023-06-24 14:32:22.122693 Server started
+2023-06-24 14:32:29.461509 Connection attempt from IP 127.0.0.1
+2023-06-24 14:32:29.461509 User "skkd" authentication attempt
+2023-06-24 14:32:29.461509 Unknown user
+2023-06-24 14:32:29.461509 Authentication attempt failed
+2023-06-24 14:32:29.461509 Server message:
+Sorry, we do not know you
+2023-06-24 14:32:29.461509 Server closed
+2023-06-24 14:34:11.074998 Server started
+2023-06-24 14:34:17.782211 Connection attempt from IP 127.0.0.1
+2023-06-24 14:34:17.782211 User "user" authentication attempt
+2023-06-24 14:34:17.782211 Authentication attempt failed
+2023-06-24 14:34:17.782211 Server message:
+Hello, user!
+Wrong password!
+2023-06-24 14:34:17.782211 Server closed
+2023-06-24 14:34:25.690968 Server started
+2023-06-24 14:34:39.860564 Connection attempt from IP 127.0.0.1
+2023-06-24 14:34:39.860564 User "user" authentication attempt
+2023-06-24 14:34:39.860564 User "user" successfully logged in
+2023-06-24 14:34:39.860564 Server message:
+Hello, user!
+2023-06-24 14:34:44.214059 User "user" message:
+whoami
+2023-06-24 14:34:44.214059 Server message:
+user
+2023-06-24 14:34:53.778749 User "user" message:
+time
+2023-06-24 14:34:53.778749 Server message:
+2023-06-24 14:34:53.778749
+2023-06-24 14:34:58.708358 User "user" message:
+quit
+2023-06-24 14:34:58.708358 User "user" closed connection
+2023-06-24 14:34:58.708358 Server closed
